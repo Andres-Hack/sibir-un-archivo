@@ -1,0 +1,35 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////// SUBIR UN ARCHIVO A GITHUB EN 4 SIMPLES PASOS ///////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+1er paso:
+
+Ingresar al archivo que creaste , depues iniciar git y crearnos un README.md:
+
+>> git init
+>> git add README.md
+
+2do. paso:
+
+debemos de añadir todo lo que queremos que se suba.
+
+>> git add .
+
+3ro. paso:
+
+Crear un commit que es necesario que lo agamos:
+
+>> git commit -m 'Aqui entra el mensaje'
+
+4yo. paso:
+
+Aqui tenemos que copear lo que nos sale en el nuevo repositorio, en lña parte que nos dice:
+
+…or push an existing repository from the command line
+
+ahi hay dos lineas las culaes la debemos de copear y pégar a la terminal
+
+Y LISTO..!!!!
+
+Nota: para que puedas actualizar debes de segir los mismos pasos desde el 2do mas exactamenete. Y ojo que despues del paso numero 4 nos pedira el usuario y contraseña de la cuenta del repositorio, asi que no se vayan a olvidar.....
